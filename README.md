@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Laravel & CodeIgniter3 projects**  
 - 🌱 I’m currently learning **JavaScript & Advanced Laravel**  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/janitra-alvito-zahir-a3bb1b331)<!-- | [Portfolio](https://yourportfolio.com)-->
 - ⚡ Fun fact: I like solving real-worl programming problems  
 
 ---
