@@ -23,14 +23,15 @@ Here are some ideas to get you started:
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Laravel & CodeIgniter3 projects**  
 - 🌱 I’m currently learning **JavaScript & Advanced Laravel**  
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)  
-- ⚡ Fun fact: I love solving real-world programming problems!  
+<!-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/yourprofile) | [Portfolio](https://yourportfolio.com)  -->
+- ⚡ Fun fact: I like solving real-worl programming problems  
 
 ---
 
 ### 🛠 Tech Stack  
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-orange.svg?style=flat&logo=codeigniter&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 ---
 
@@ -40,7 +41,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 🤝 Let's Connect!  
+### 🤝 Let's Connect With Me!  
 <p>
   <a href="www.linkedin.com/in/janitra-alvito-zahir-a3bb1b331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:janitraalvitozhr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
