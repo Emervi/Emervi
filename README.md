@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### 🚀 About Me  
 - 🔭 I’m currently working on **Laravel & CodeIgniter3 projects**  
 - 🌱 I’m currently learning **JavaScript & Advanced Laravel**  
-📫 How to reach me: [LinkedIn](www.linkedin.com/in/janitra-alvito-zahir-a3bb1b331)<!-- | [Portfolio](https://yourportfolio.com)-->
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/janitra-alvito-zahir-a3bb1b331)<!-- | [Portfolio](https://yourportfolio.com)-->
 - ⚡ Fun fact: I like solving real-worl programming problems  
 
 ---
@@ -43,6 +43,6 @@ Here are some ideas to get you started:
 
 ### 🤝 Let's Connect With Me!  
 <p>
-  <a href="www.linkedin.com/in/janitra-alvito-zahir-a3bb1b331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/janitra-alvito-zahir-a3bb1b331"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:janitraalvitozhr@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
