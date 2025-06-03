@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 ---
 
 ### 👨‍💻 About Me  
-- 👨‍🔬 I’m currently working on **Laravel & CodeIgniter3 projects**  
+<!-- 👨‍🔬 I’m currently working on **Laravel & CodeIgniter3 projects**  -->
 - ✍ I’m currently learning **JavaScript & Advanced Laravel**  
-- 😊 Fun fact: I like solving real-world programming problems  
+- 😊 Fun fact: I like solving real-world programming problems
 
 ---
 
