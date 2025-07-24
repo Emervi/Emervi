@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello there! 👋 I'm Janitra Alvito</h1>
 <p align="center">
-  <b>A passionate Fullstack Developer from Bandung, Indonesia 🇮🇩</b>
+  <b>I am a passionate Fullstack Developer from Bandung, Indonesia 🇮🇩. I enjoy listening to music while coding and of course with a bottle of water by my side.</b>
 </p>
 
 <!--## 👨‍💻 About Me  -->
@@ -40,11 +40,9 @@ Here are some ideas to get you started:
 
 ---
 
-### 📊 GitHub Stats  
+<!--### 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Emervi&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emervi&layout=compact&theme=dracula)
-
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emervi&layout=compact&theme=dracula) -->
 
 ### 🤝 Let's Connect With Me!  
 <p>
