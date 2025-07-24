@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello there! 👋 I'm Janitra Alvito</h1>
 <p align="center">
-  <b>Junior Fullstack Developer from Bandung, Indonesia 🇮🇩</b>
+  <b>A passionate Fullstack Developer from Bandung, Indonesia 🇮🇩</b>
 </p>
 
----
-
-### 👨‍💻 About Me  
-<!-- 👨‍🔬 I’m currently working on **Laravel & CodeIgniter3 projects**  -->
-- ✍ I’m currently learning **JavaScript & Advanced Laravel**  
-- 😊 Fun fact: I like solving real-world programming problems
+<!--## 👨‍💻 About Me  -->
+<!-- - 👨‍🔬 I’m currently working on **Laravel & CodeIgniter3 projects**  -->
+<!-- - ✍ I’m currently learning **JavaScript & Advanced Laravel**  -->
+<!-- - 😊 Fun fact: The darker the night, the brighter my code. -->
 
 ---
 
@@ -31,6 +29,14 @@ Here are some ideas to get you started:
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%23005C84.svg?style=flat-square&logo=mysql&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
+
+---
+
+### 💾 Tools
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
